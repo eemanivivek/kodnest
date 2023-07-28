@@ -1,4 +1,3 @@
-package com.pattern.assignments;
 
 import java.util.*;
 public class Pattern25 

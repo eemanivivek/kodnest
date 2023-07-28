@@ -1,4 +1,3 @@
-package com.pattern.assignments;
 
 public class Pattern20 
 {
